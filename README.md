@@ -84,3 +84,5 @@ This tool requires users to follow a few simple steps:
 - Ensure all dependencies are installed and paths are correctly configured.
 - Run the tool to process the images and obtain analyzed results, including scores and highlighted answer boxes.
 
+## Project Website
+https://thuang293.wixsite.com/teachers-pet-smart
